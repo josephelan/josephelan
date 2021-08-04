@@ -8,7 +8,7 @@ Have a look around at my journey and progression through my various school cours
 
 I'm currently working through these UDEMY / online courses to brush up on fundamentals and learn some new tools to add to my toolbelt, combined with my schoolwork.
 
-// BACKLOG
+//  BACKLOG
   1. [HTML/CSS/Bootstrap]       HTML,CSS, & Bootstrap Certification Course for Beginners
   2. [Python]                   Pyomo Bootcamp: Python Optimization from Beginner to Advance
   3. [Python, ML]               Machine Learning using Python Programming
@@ -19,19 +19,15 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
   9. [Web Dev]                  Web Development Masterclass - Complete Certificate Course
   10. [SQL]                     The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery
 
-// MISC BACKLOG
+//  MISC BACKLOG
   1. [Python, Network]          Python Network Programming for Network Engineers (Python 3)
   2. [Wireshark, Network]       Packet Analysis and Ethical Hacking: Core Skills
 
-// DOING
+//  DOING
   1. [Java]                     Java Programming: Complete Beginner to Advanced
   2. [Java, DSA]                Data Structures and Algorithms: Deep Dive Using Java
 
-// DONE
-
-
-
-
+//  DONE
 
 
 
@@ -41,10 +37,8 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 <br />**2020**
 <br />JAVA    CSS 142 Computer Programming I (Introduction to Programming Concepts)
 <br />JAVA    CSSSKL 142 Computer Programming Skills (Intro to Programming LAB)
-
 <br />JAVA    CSS 143 Computer Programming II (Introduction to advanced DSA/ ADT)
-<br />JAVA    CSSSKL 143 Computer Programming Skills (Intorudction to advanced DSA LAB)
-
+<br />JAVA    CSSSKL 143 Computer Programming Skills (Introduction to advanced DSA LAB)
 <br />C++     CSS 342 Data Structures, Algorithms, and Discrete Mathematics (Programming with DSA, OOP, ++)
 <br />C++     CSSSKL 342 Programming Issues with Object-Oriented Languages (Programming with DSA, OOP LAB)
 <br />TECH    CSS 301 Technical Writing for Computing Professionals (Technical Writing)
@@ -53,10 +47,10 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 <br />SWE     CSS 360 Software Engineering (SWE principles, methodologies, SDLC, ++)
 <br />MATH    STMATH 308 Matrix Algebra with Applications (Linear Algebra, Applications, ++)
 <br />C++     CSS 343 Data Structures, Algorithms, and Discrete Mathematics II (Programming with DSA, OOP, BIGO, BST, GRAPH, PQUE, ++)
-
 <br />SWE     CSS 350 Management Principles for Computing Professionals (Management, EI, CM, ++)
 <br />HW/ORG  CSS 422 Hardware and Computer Organization (Assembly, 68K)
 <br />SWE     CSS 370 Analysis and Design (Project Proposals, Diagrams, Schematics, Requirements Elicitation, ++)
+
 
 **PLANNED**
 **2021**
@@ -66,7 +60,6 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 
 **2022**
 <br />CC      CSS 436 Cloud Computing
-
 <br />GRAPH   CSS 451 3-D Computing Graphics
 <br />NETW    CSS 432 Network Design and Programming
 <br />        // CSS 486 Machine Intelligence
