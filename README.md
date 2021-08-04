@@ -24,8 +24,7 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
   2. [Java, DSA]								Data Structures and Algorithms: Deep Dive Using Java
 
 **DONE**
-
-
+<br /><br />
 
 👋 ### Relevant University of Washington Bothell Coursework - Completed + Planned 👋
 
