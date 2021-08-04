@@ -52,11 +52,13 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 <br />SWE     CSS 370 Analysis and Design (Project Proposals, Diagrams, Schematics, Requirements Elicitation, ++)
 
 
+
 **PLANNED**
 **2021**
 <br />CV      CSS 487 Computer Vision
 <br />OS      CSS 430 Operating Systems
 <br />SQL/DAT CSS 475 Databse Systems
+
 
 **2022**
 <br />CC      CSS 436 Cloud Computing
