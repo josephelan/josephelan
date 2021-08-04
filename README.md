@@ -1,4 +1,4 @@
-### Hello and Welcome!! 👋
+👋 ### Hello and Welcome!! 👋
 
 My name is Joseph (He/ Him / His)! I'm an undergraduate student studying computer science and software engineering at the University of Washington Bothell.
 
@@ -7,7 +7,6 @@ I started this journey because I have a passion for problem solving and finding 
 Have a look around at my journey and progression through my various school coursework projects and self projects that I am working on!
 
 I'm currently working through these UDEMY / online courses to brush up on fundamentals and learn some new tools to add to my toolbelt, combined with my schoolwork.
-
 
 // BACKLOG
   1. [HTML/CSS/Bootstrap]       HTML,CSS, & Bootstrap Certification Course for Beginners
@@ -33,7 +32,8 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 
 
 
-### Relevant University of Washington Bothell Coursework - Completed + Planned
+👋 ### Relevant University of Washington Bothell Coursework - Completed + Planned 👋
+
 **COMPLETED**
 **2020**
 JAVA    CSS 142 Computer Programming I (Introduction to Programming Concepts)
@@ -70,8 +70,7 @@ NETW    CSS 432 Network Design and Programming
 // CSS 457 Signal Computing
 
 
-
-I'd love to talk to you more. Please contact me at jeconomylan@gmail.com if you have any questions regarding my work, or just want to chat and collaborate!
+👋 ### I'd love to talk to you more. Please contact me at jeconomylan@gmail.com if you have any questions regarding my work, or just want to chat and collaborate! 👋
 
 <!--
 **josephelan/josephelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
