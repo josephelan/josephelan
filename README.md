@@ -36,36 +36,36 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 
 **COMPLETED**
 **2020**
-JAVA    CSS 142 Computer Programming I (Introduction to Programming Concepts)
-JAVA    CSSSKL 142 Computer Programming Skills (Intro to Programming LAB)
+JAVA - CSS 142 Computer Programming I (Introduction to Programming Concepts)
+JAVA - CSSSKL 142 Computer Programming Skills (Intro to Programming LAB)
 
-JAVA    CSS 143 Computer Programming II (Introduction to advanced DSA/ ADT)
-JAVA    CSSSKL 143 Computer Programming Skills (Intorudction to advanced DSA LAB)
+JAVA - CSS 143 Computer Programming II (Introduction to advanced DSA/ ADT)
+JAVA - CSSSKL 143 Computer Programming Skills (Intorudction to advanced DSA LAB)
 
-C++     CSS 342 Data Structures, Algorithms, and Discrete Mathematics (Programming with DSA, OOP, ++)
-C++     CSSSKL 342 Programming Issues with Object-Oriented Languages (Programming with DSA, OOP LAB)
-TECH    CSS 301 Technical Writing for Computing Professionals (Technical Writing)
+C++ - CSS 342 Data Structures, Algorithms, and Discrete Mathematics (Programming with DSA, OOP, ++)
+C++ - CSSSKL 342 Programming Issues with Object-Oriented Languages (Programming with DSA, OOP LAB)
+TECH - CSS 301 Technical Writing for Computing Professionals (Technical Writing)
 
 **2021**
-SWE     CSS 360 Software Engineering (SWE principles, methodologies, SDLC, ++)
-MATH    STMATH 308 Matrix Algebra with Applications (Linear Algebra, Applications, ++)
-C++     CSS 343 Data Structures, Algorithms, and Discrete Mathematics II (Programming with DSA, OOP, BIGO, BST, GRAPH, PQUE, ++)
+SWE - CSS 360 Software Engineering (SWE principles, methodologies, SDLC, ++)
+MATH - STMATH 308 Matrix Algebra with Applications (Linear Algebra, Applications, ++)
+C++ - CSS 343 Data Structures, Algorithms, and Discrete Mathematics II (Programming with DSA, OOP, BIGO, BST, GRAPH, PQUE, ++)
 
-SWE     Management Principles for Computing Professionals (Management, EI, CM, ++)
-HW/ORG  CSS 422 Hardware and Computer Organization (Assembly, 68K)
-SWE     CSS 370 Analysis and Design (Project Proposals, Diagrams, Schematics, Requirements Elicitation, ++)
+SWE - Management Principles for Computing Professionals (Management, EI, CM, ++)
+HW/ORG - CSS 422 Hardware and Computer Organization (Assembly, 68K)
+SWE - CSS 370 Analysis and Design (Project Proposals, Diagrams, Schematics, Requirements Elicitation, ++)
 
 **PLANNED**
 **2021**
-CV      CSS 487 Computer Vision
-OS      CSS 430 Operating Systems
-SQL/DAT CSS 475 Databse Systems
+CV - CSS 487 Computer Vision
+OS - CSS 430 Operating Systems
+SQL/DAT - CSS 475 Databse Systems
 
 **2022**
-CC      CSS 436 Cloud Computing
+CC - CSS 436 Cloud Computing
 
-GRAPH   CSS 451 3-D Computing Graphics
-NETW    CSS 432 Network Design and Programming
+GRAPH - CSS 451 3-D Computing Graphics
+NETW - CSS 432 Network Design and Programming
 // CSS 486 Machine Intelligence
 // CSS 457 Signal Computing
 
