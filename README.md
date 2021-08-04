@@ -1,8 +1,10 @@
 👋 ### Hello and Welcome!! 👋
 <pre>
-<p>My name is Joseph (He/ Him / His)! I'm an undergraduate student studying computer science and software engineering at the University of Washington Bothell.</p> <p>I started this journey because I have a passion for problem solving and finding solutions, and I love technology and computing! I believe that technology has and can create powerfully impactful experiences people and I want to contribute to that!</p> <p>Have a look around at my journey and progression through my various school coursework projects and self projects that I am working on!</p> <p>I'm currently working through these UDEMY / online courses to brush up on fundamentals and learn some new tools to add to my toolbelt, combined with my schoolwork.</p>
+My name is Joseph (He/ Him / His)! I'm an undergraduate student studying computer science and software engineering at the University of Washington Bothell. I started this journey because I have a passion for problem solving and finding solutions, and I love technology and computing! I believe that technology has and can create powerfully impactful experiences people and I want to contribute to that! Have a look around at my journey and progression through my various school coursework projects and self projects that I am working on!
 
-//  BACKLOG
+I'm currently working through these UDEMY / online courses to brush up on fundamentals and learn some new tools to add to my toolbelt, combined with my schoolwork.
+
+**BACKLOG**
   1. [HTML/CSS/Bootstrap] HTML,CSS, & Bootstrap Certification Course for Beginners
   2. [Python]							Pyomo Bootcamp: Python Optimization from Beginner to Advance
   3. [Python, ML]								Machine Learning using Python Programming
@@ -13,15 +15,15 @@
   9. [Web Dev]									Web Development Masterclass - Complete Certificate Course
   10. [SQL]											The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery
 
-//	MISC BACKLOG
+**MISC BACKLOG**
   1. [Python, Network]					Python Network Programming for Network Engineers (Python 3)
   2. [Wireshark, Network]				Packet Analysis and Ethical Hacking: Core Skills
 
-//	DOING
+**DOING**
   1. [Java]											Java Programming: Complete Beginner to Advanced
   2. [Java, DSA]								Data Structures and Algorithms: Deep Dive Using Java
 
-//  DONE
+**DONE**
 
 
 
