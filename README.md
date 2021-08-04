@@ -29,6 +29,7 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 
 👋 ### Relevant University of Washington Bothell Coursework - Completed + Planned 👋
 
+<pre>
 ####**COMPLETED**
 **2020**
 JAVA    CSS 142 Computer Programming I (Introduction to Programming Concepts)
@@ -60,10 +61,9 @@ GRAPH   CSS 451 3-D Computing Graphics
 NETW    CSS 432 Network Design and Programming
 ML      CSS 486 Machine Intelligence
 IOT/SIG CSS 457 Signal Computing
-
+</pre>
 
 👋 ###I'd love to talk to you more. Please contact me at jeconomylan@gmail.com if you have any questions regarding my work, or just want to chat and collaborate! 👋
-</pre>
 
 <!--
 **josephelan/josephelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
