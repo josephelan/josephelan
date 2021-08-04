@@ -1,16 +1,13 @@
 👋 ### Hello and Welcome!! 👋
 <pre>
-My name is Joseph (He/ Him / His)! I'm an undergraduate student studying computer science and software engineering at the University of Washington Bothell.
-
-I started this journey because I have a passion for problem solving and finding solutions, and I love technology and computing! I believe that technology has and can create powerfully impactful experiences people and I want to contribute to that!
-
-Have a look around at my journey and progression through my various school coursework projects and self projects that I am working on!
-
-I'm currently working through these UDEMY / online courses to brush up on fundamentals and learn some new tools to add to my toolbelt, combined with my schoolwork.
+<p>My name is Joseph (He/ Him / His)! I'm an undergraduate student studying computer science and software engineering at the University of Washington Bothell.</p>
+<p>I started this journey because I have a passion for problem solving and finding solutions, and I love technology and computing! I believe that technology has and can create powerfully impactful experiences people and I want to contribute to that!</p>
+<p>Have a look around at my journey and progression through my various school coursework projects and self projects that I am working on!</p>
+<p>I'm currently working through these UDEMY / online courses to brush up on fundamentals and learn some new tools to add to my toolbelt, combined with my schoolwork.</p>
 
 //  BACKLOG
   1. [HTML/CSS/Bootstrap] HTML,CSS, & Bootstrap Certification Course for Beginners
-  2. [Python]										Pyomo Bootcamp: Python Optimization from Beginner to Advance
+  2. [Python]							Pyomo Bootcamp: Python Optimization from Beginner to Advance
   3. [Python, ML]								Machine Learning using Python Programming
   4. [Python, RW]								Time Series Analysis Real Worl Projects in Python
   5. [Python, DL / TensorFlow]	Intro to Deep Learning project in TensorFlow 2.x and Python
