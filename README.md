@@ -8,24 +8,24 @@ Have a look around at my journey and progression through my various school cours
 
 I'm currently working through these UDEMY / online courses to brush up on fundamentals and learn some new tools to add to my toolbelt, combined with my schoolwork.
 
-//  BACKLOG
-  1. [HTML/CSS/Bootstrap]       HTML,CSS, & Bootstrap Certification Course for Beginners
-  2. [Python]                   Pyomo Bootcamp: Python Optimization from Beginner to Advance
-  3. [Python, ML]               Machine Learning using Python Programming
-  4. [Python, RW]               Time Series Analysis Real Worl Projects in Python
-  5. [Python, DL / TensorFlow]  Intro to Deep Learning project in TensorFlow 2.x and Python
-  7. [C++]                      Beginning C++ Programming - From Beginner to Beyond
-  8. [React Native, Hooks]      The Complete React Native + Hooks Course
-  9. [Web Dev]                  Web Development Masterclass - Complete Certificate Course
-  10. [SQL]                     The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery
+//	BACKLOG
+  1. [HTML/CSS/Bootstrap]				HTML,CSS, & Bootstrap Certification Course for Beginners
+  2. [Python]										Pyomo Bootcamp: Python Optimization from Beginner to Advance
+  3. [Python, ML]								Machine Learning using Python Programming
+  4. [Python, RW]								Time Series Analysis Real Worl Projects in Python
+  5. [Python, DL / TensorFlow]	Intro to Deep Learning project in TensorFlow 2.x and Python
+  7. [C++]											Beginning C++ Programming - From Beginner to Beyond
+  8. [React Native, Hooks]			The Complete React Native + Hooks Course
+  9. [Web Dev]									Web Development Masterclass - Complete Certificate Course
+  10. [SQL]											The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery
 
-//  MISC BACKLOG
-  1. [Python, Network]          Python Network Programming for Network Engineers (Python 3)
-  2. [Wireshark, Network]       Packet Analysis and Ethical Hacking: Core Skills
+//	MISC BACKLOG
+  1. [Python, Network]					Python Network Programming for Network Engineers (Python 3)
+  2. [Wireshark, Network]				Packet Analysis and Ethical Hacking: Core Skills
 
-//  DOING
-  1. [Java]                     Java Programming: Complete Beginner to Advanced
-  2. [Java, DSA]                Data Structures and Algorithms: Deep Dive Using Java
+//	DOING
+  1. [Java]											Java Programming: Complete Beginner to Advanced
+  2. [Java, DSA]								Data Structures and Algorithms: Deep Dive Using Java
 
 //  DONE
 
