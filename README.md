@@ -1,5 +1,5 @@
 👋 ### Hello and Welcome!! 👋
-<pre>
+
 My name is Joseph (He/ Him / His)! I'm an undergraduate student studying computer science and software engineering at the University of Washington Bothell. I started this journey because I have a passion for problem solving and finding solutions, and I love technology and computing! I believe that technology has and can create powerfully impactful experiences people and I want to contribute to that! Have a look around at my journey and progression through my various school coursework projects and self projects that I am working on!
 
 I'm currently working through these UDEMY / online courses to brush up on fundamentals and learn some new tools to add to my toolbelt, combined with my schoolwork.
