@@ -30,7 +30,7 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 👋 ### Relevant University of Washington Bothell Coursework - Completed + Planned 👋
 
 <pre>
-####**COMPLETED**
+<b> COMPLETED </b>
 **2020**
 JAVA    CSS 142 Computer Programming I (Introduction to Programming Concepts)
 JAVA    CSSSKL 142 Computer Programming Skills (Intro to Programming LAB)
@@ -49,7 +49,7 @@ HW/ORG  CSS 422 Hardware and Computer Organization (Assembly, 68K)
 SWE     CSS 370 Analysis and Design (Project Proposals, Diagrams, Schematics, Requirements Elicitation, ++)
 
 
-####**PLANNED**
+<b> PLANNED </b>
 **2021**
 CV      CSS 487 Computer Vision
 OS      CSS 430 Operating Systems
