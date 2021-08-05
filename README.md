@@ -10,10 +10,9 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
   3. [Python, ML]								Machine Learning using Python Programming
   4. [Python, RW]								Time Series Analysis Real Worl Projects in Python
   5. [Python, DL / TensorFlow]	Intro to Deep Learning project in TensorFlow 2.x and Python
-  7. [C++]											Beginning C++ Programming - From Beginner to Beyond
-  8. [React Native, Hooks]			The Complete React Native + Hooks Course
-  9. [Web Dev]									Web Development Masterclass - Complete Certificate Course
-  10. [SQL]											The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery
+  6. [React Native, Hooks]			The Complete React Native + Hooks Course
+  7. [Web Dev]									Web Development Masterclass - Complete Certificate Course
+  8. [SQL]											The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery
 
 **MISC BACKLOG**
   1. [Python, Network]					Python Network Programming for Network Engineers (Python 3)
@@ -22,6 +21,7 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 **DOING**
   1. [Java]											Java Programming: Complete Beginner to Advanced
   2. [Java, DSA]								Data Structures and Algorithms: Deep Dive Using Java
+  3. [C++]											Beginning C++ Programming - From Beginner to Beyond
 
 **DONE**
 <br />
