@@ -24,6 +24,7 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
   3. [App]                      The Complete Android Oreo Develoepr Course - Build 23 Apps!
 
 **DONE**
+  1. [Java]                     Java Programming: Complete Beginner to Advanced
 <br />
 <br />
 <br />
