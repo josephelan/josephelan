@@ -19,9 +19,9 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
   2. [Wireshark, Network]				Packet Analysis and Ethical Hacking: Core Skills
 
 **DOING**
-  1. [Java]											Java Programming: Complete Beginner to Advanced
-  2. [Java, DSA]								Data Structures and Algorithms: Deep Dive Using Java
-  3. [C++]											Beginning C++ Programming - From Beginner to Beyond
+  1. [Java, DSA]								Data Structures and Algorithms: Deep Dive Using Java
+  2. [C++]											Beginning C++ Programming - From Beginner to Beyond
+  3. [App]                      The Complete Android Oreo Develoepr Course - Build 23 Apps!
 
 **DONE**
 <br />
