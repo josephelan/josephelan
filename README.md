@@ -14,14 +14,16 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
   7. [Web Dev]									Web Development Masterclass - Complete Certificate Course
   8. [SQL]											The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery
 
+**TEMP HOLD**
+  1. Beginning C++ Programming - From Beginner to Beyond
+
 **MISC BACKLOG**
   1. [Python, Network]					Python Network Programming for Network Engineers (Python 3)
   2. [Wireshark, Network]				Packet Analysis and Ethical Hacking: Core Skills
 
 **DOING**
   1. [Java, DSA]								Data Structures and Algorithms: Deep Dive Using Java
-  2. [C++]											Beginning C++ Programming - From Beginner to Beyond
-  3. [App]                      The Complete Android Oreo Develoepr Course - Build 23 Apps!
+  2. [App]                      The Complete Android Oreo Develoepr Course - Build 23 Apps!
 
 **DONE**
   1. [Java]                     Java Programming: Complete Beginner to Advanced
