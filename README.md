@@ -4,9 +4,15 @@ My name is Joseph (He/ Him / His)! I'm an undergraduate student studying compute
 
 I'm currently working through these UDEMY / online courses to brush up on fundamentals and learn some new tools to add to my toolbelt, combined with my schoolwork.
 
+**DOING**
+  1. [Java, DSA]								Data Structures and Algorithms: Deep Dive Using Java
+  2. [App]                      The Complete Android Oreo Develoepr Course - Build 23 Apps!
+
+**DONE**
+  1. [Java]                     Java Programming: Complete Beginner to Advanced
+
 **BACKLOG**
-  1. [HTML/CSS/Bootstrap] HTML,CSS , & Bootstrap Certification Course for Beginners
-  2. [Python]							Pyomo Bootcamp: Python Optimization from Beginner to Advance
+  1. [HTML/CSS/Bootstrap]       HTML,CSS , & Bootstrap Certification Course for Beginners
   3. [Python, ML]								Machine Learning using Python Programming
   4. [Python, RW]								Time Series Analysis Real Worl Projects in Python
   5. [Python, DL / TensorFlow]	Intro to Deep Learning project in TensorFlow 2.x and Python
@@ -20,13 +26,7 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 **MISC BACKLOG**
   1. [Python, Network]					Python Network Programming for Network Engineers (Python 3)
   2. [Wireshark, Network]				Packet Analysis and Ethical Hacking: Core Skills
-
-**DOING**
-  1. [Java, DSA]								Data Structures and Algorithms: Deep Dive Using Java
-  2. [App]                      The Complete Android Oreo Develoepr Course - Build 23 Apps!
-
-**DONE**
-  1. [Java]                     Java Programming: Complete Beginner to Advanced
+  3. [Python]							Pyomo Bootcamp: Python Optimization from Beginner to Advance
 <br />
 <br />
 <br />
