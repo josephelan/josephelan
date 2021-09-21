@@ -5,7 +5,7 @@ My name is Joseph (He/ Him / His)! I'm an undergraduate student studying compute
 I'm currently working through these UDEMY / online courses to brush up on fundamentals and learn some new tools to add to my toolbelt, combined with my schoolwork.
 
 **BACKLOG**
-  1. [HTML/CSS/Bootstrap] HTML,CSS, & Bootstrap Certification Course for Beginners
+  1. [HTML/CSS/Bootstrap] HTML,CSS , & Bootstrap Certification Course for Beginners
   2. [Python]							Pyomo Bootcamp: Python Optimization from Beginner to Advance
   3. [Python, ML]								Machine Learning using Python Programming
   4. [Python, RW]								Time Series Analysis Real Worl Projects in Python
