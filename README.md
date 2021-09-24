@@ -7,7 +7,7 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 **DOING**
   1. [Java, DSA]								Data Structures and Algorithms: Deep Dive Using Java
   2. [App]                      The Complete Android Oreo Develoepr Course - Build 23 Apps!
-  3. *Codepath Android 2021 Fall Developer Course*
+  3. **Codepath Android 2021 Fall Developer Course**
 
 **DONE**
   1. [Java]                     Java Programming: Complete Beginner to Advanced
