@@ -15,7 +15,7 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 **BACKLOG**
   1. [HTML/CSS/Bootstrap]       HTML,CSS , & Bootstrap Certification Course for Beginners
   3. [Python, ML]								Machine Learning using Python Programming
-  4. [Python, RW]								Time Series Analysis Real Worl Projects in Python
+  4. [Python, RW]								Time Series Analysis Real World Projects in Python
   5. [Python, DL / TensorFlow]	Intro to Deep Learning project in TensorFlow 2.x and Python
   6. [React Native, Hooks]			The Complete React Native + Hooks Course
   7. [Web Dev]									Web Development Masterclass - Complete Certificate Course
