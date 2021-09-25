@@ -9,7 +9,6 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 <h4>DOING</h4>
 <ol>
   <li>[Java, DSA] Data Structures and Algorithms: Deep Dive Using Java</li>
-  <li>[App] The Complete Android Oreo Develoepr Course - Build 23 Apps!</li>
   <li><b>Codepath Android 2021 Fall Developer Course**</b></li>
   <li>[HTML/CSS/Bootstrap] HTML,CSS , & Bootstrap Certification Course for Beginners</li>
   <li>[SQL] The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery</li>
@@ -31,6 +30,7 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 
 <h5>TEMP HOLD</h5>
 <ol>
+  <li>[App] The Complete Android Oreo Develoepr Course - Build 23 Apps!</li>
   <li>Beginning C++ Programming - From Beginner to Beyond</li>
 </ol>
 
