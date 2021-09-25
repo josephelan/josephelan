@@ -1,41 +1,52 @@
-👋 ### Hello and Welcome!! 👋
+<h1>👋 Hello and Welcome!! 👋</h1>
 
-My name is Joseph (He/ Him / His)! I'm an undergraduate student studying computer science and software engineering at the University of Washington Bothell. I started this journey because I have a passion for problem solving and finding solutions, and I love technology and computing! I believe that technology has and can create powerfully impactful experiences people and I want to contribute to that! Have a look around at my journey and progression through my various school coursework projects and self projects that I am working on!
+<p>
+My name is <b>Joseph Lan</b> (He/ Him / His)! I'm an undergraduate student studying computer science and software engineering at the University of Washington Bothell. I started this journey because I have a passion for problem solving and finding solutions and I love technology and computing! I believe that technology has and can create powerfully impactful experiences people and I want to contribute to that! Have a look around at my journey and progression through my various school coursework projects and self projects that I am working on!
+</p>
 
-I'm currently working through these UDEMY / online courses to brush up on fundamentals and learn some new tools to add to my toolbelt, combined with my schoolwork.
+I'm currently working through these UDEMY / online courses to brush up on fundamentals and learn some new tools to add to my toolbelt alongside University schoolwork.
+<br>
 
-**DOING**
-  1. [Java, DSA]								Data Structures and Algorithms: Deep Dive Using Java
-  2. [App]                      The Complete Android Oreo Develoepr Course - Build 23 Apps!
-  3. **Codepath Android 2021 Fall Developer Course**
+<h4>DOING</h4>
+  <ol>
+  <li>[Java, DSA]Data Structures and Algorithms: Deep Dive Using Java</li>
+  <li>[App]                      The Complete Android Oreo Develoepr Course - Build 23 Apps!</li>
+  <li> **Codepath Android 2021 Fall Developer Course**</li>
+  <li>[HTML/CSS/Bootstrap]       HTML,CSS , & Bootstrap Certification Course for Beginners</li>
+  <li>[SQL]											The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery</li>
+  </ol>
+<br>
 
-**DONE**
+<h4>DONE</h4>
   1. [Java]                     Java Programming: Complete Beginner to Advanced
+<br>
 
-**BACKLOG**
-  1. [HTML/CSS/Bootstrap]       HTML,CSS , & Bootstrap Certification Course for Beginners
+<h4>BACKLOG</h4>
   3. [Python, ML]								Machine Learning using Python Programming
   4. [Python, RW]								Time Series Analysis Real World Projects in Python
   5. [Python, DL / TensorFlow]	Intro to Deep Learning project in TensorFlow 2.x and Python
   6. [React Native, Hooks]			The Complete React Native + Hooks Course
   7. [Web Dev]									Web Development Masterclass - Complete Certificate Course
-  8. [SQL]											The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery
+<br>
 
-**TEMP HOLD**
+<h5>TEMP HOLD</h5>
   1. Beginning C++ Programming - From Beginner to Beyond
+<br>
 
-**MISC BACKLOG**
+<h5>MISC BACKLOG</h5>
   1. [Python, Network]					Python Network Programming for Network Engineers (Python 3)
   2. [Wireshark, Network]				Packet Analysis and Ethical Hacking: Core Skills
   3. [Python]							Pyomo Bootcamp: Python Optimization from Beginner to Advance
-<br />
-<br />
-<br />
-👋 ### Relevant University of Washington Bothell Coursework - Completed + Planned 👋
+<br>
+<br>
+<br>
+
+<h1>👋 ### Relevant University of Washington Bothell Coursework - Completed + Planned 👋</h1>
+<br>
 
 <pre>
 <b> COMPLETED </b>
-**2020**
+<b>2020</br>
 JAVA    CSS 142 Computer Programming I (Introduction to Programming Concepts)
 JAVA    CSSSKL 142 Computer Programming Skills (Intro to Programming LAB)
 JAVA    CSS 143 Computer Programming II (Introduction to advanced DSA/ ADT)
@@ -44,7 +55,7 @@ C++     CSS 342 Data Structures, Algorithms, and Discrete Mathematics (Programmi
 C++     CSSSKL 342 Programming Issues with Object-Oriented Languages (Programming with DSA, OOP LAB)
 TECH    CSS 301 Technical Writing for Computing Professionals (Technical Writing)
 
-**2021**
+<strong>2021</strong>
 SWE     CSS 360 Software Engineering (SWE principles, methodologies, SDLC, ++)
 MATH    STMATH 308 Matrix Algebra with Applications (Linear Algebra, Applications, ++)
 C++     CSS 343 Data Structures, Algorithms, and Discrete Mathematics II (Programming with DSA, OOP, BIGO, BST, GRAPH, PQUE, ++)
