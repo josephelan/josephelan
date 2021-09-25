@@ -30,7 +30,7 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 
 <h5>TEMP HOLD</h5>
 <ol>
-  <li>[App] The Complete Android Oreo Develoepr Course - Build 23 Apps!</li>
+  <li>[App] The Complete Android Oreo Developer Course - Build 23 Apps!</li>
   <li>Beginning C++ Programming - From Beginner to Beyond</li>
 </ol>
 
