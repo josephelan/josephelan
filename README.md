@@ -8,10 +8,19 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 
 <h4>DOING</h4>
 <ol>
-  <li>[Java, DSA] Data Structures and Algorithms: Deep Dive Using Java</li>
-  <li><b>Codepath Android 2021 Fall Developer Course**</b></li>
-  <li>[HTML/CSS/Bootstrap] HTML,CSS , & Bootstrap Certification Course for Beginners</li>
-  <li>[SQL] The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery</li>
+  <li>University of Washington Coursework</li>
+    <ol>
+      <li>CSS 430 Operating Systems</li>
+      <li>CSS 475 Database Systems</li>
+      <li>CSS 487 Computer Vision</li>
+    </ol>
+  <li>Self Study / Outside of University</li>
+  <ol>
+    <li>[Java, DSA] Data Structures and Algorithms: Deep Dive Using Java</li>
+    <li><b>Codepath Android 2021 Fall Developer Course</b></li>
+    <li>[HTML/CSS/Bootstrap] HTML,CSS , & Bootstrap Certification Course for Beginners</li>
+    <li>[SQL] The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery</li>
+  </ol>
 </ol>
 
 <h4>DONE</h4>
@@ -59,17 +68,17 @@ C++     CSS 343 Data Structures, Algorithms, and Discrete Mathematics II (Progra
 SWE     CSS 350 Management Principles for Computing Professionals (Management, EI, CM, ++)
 HW/ORG  CSS 422 Hardware and Computer Organization (Assembly, 68K)
 SWE     CSS 370 Analysis and Design (Project Proposals, Diagrams, Schematics, Requirements Elicitation, ++)<br><br>
-**PLANNED**<br>
+**IN PROGRESS**<br>
 **2021**
 CV      CSS 487 Computer Vision
 OS      CSS 430 Operating Systems
 SQL/DAT CSS 475 Database Systems<br>
+**PLANNED**<br>
 **2022**
 CC      CSS 436 Cloud Computing
-GRAPH   CSS 451 3-D Computing Graphics
 NETW    CSS 432 Network Design and Programming
+COMP    CSS 448 Introduction to Compilers
 ML      CSS 486 Machine Intelligence
-IOT/SIG CSS 457 Signal Computing
 </pre>
 
 👋 ###I'd love to talk to you more. Please contact me at jeconomylan@gmail.com if you have any questions regarding my work, or just want to chat and collaborate! 👋
