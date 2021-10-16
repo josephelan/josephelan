@@ -19,13 +19,13 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
     <li>Udemy: [Java, DSA] Data Structures and Algorithms: Deep Dive Using Java</li>
     <li>CodePath: [Android Dev] <b>Codepath Android 2021 Fall Developer Course</b></li>
     <li>Udemy: [SQL] The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery</li>
-    <li>Linkedin Learning: [Git] Learning Git and GitHub
   </ol>
 </ol>
 
 <h4>DONE</h4>
 <ol>
   <li>Udemy: [Java] Java Programming: Complete Beginner to Advanced</li>
+  <li>Linkedin Learning: [Git] Learning Git and GitHub
 </ol>
 
 <h4>BACKLOG</h4>
