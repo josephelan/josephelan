@@ -41,7 +41,7 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 <ol>
   <li>Udemy: [App] The Complete Android Oreo Developer Course - Build 23 Apps!</li>
   <li>Udemy: Beginning C++ Programming - From Beginner to Beyond</li>
-  <li>Udemy: [HTML/CSS/Bootstrap] HTML,CSS , & Bootstrap Certification Course for Beginners</li>
+  <li>Udemy: [HTML/CSS/Bootstrap] HTML, CSS, & Bootstrap Certification Course for Beginners</li>
 </ol>
 
 <h5>MISC BACKLOG</h5>
