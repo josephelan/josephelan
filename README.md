@@ -16,9 +16,7 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
     </ol>
   <li>Self Study / Outside of University</li>
   <ol>
-    <li>Udemy: [Java, DSA] Data Structures and Algorithms: Deep Dive Using Java</li>
     <li>CodePath: [Android Dev] <b>Codepath Android 2021 Fall Developer Course</b></li>
-    <li>Udemy: [SQL] The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery</li>
   </ol>
 </ol>
 
@@ -39,7 +37,8 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
 
 <h5>TEMP HOLD</h5>
 <ol>
-  <li>Udemy: [App] The Complete Android Oreo Developer Course - Build 23 Apps!</li>
+  <li>Udemy: [Java, DSA] Data Structures and Algorithms: Deep Dive Using Java</li>
+  <li>Udemy: [SQL] The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery</li>
   <li>Udemy: Beginning C++ Programming - From Beginner to Beyond</li>
   <li>Udemy: [HTML/CSS/Bootstrap] HTML, CSS, & Bootstrap Certification Course for Beginners</li>
 </ol>
