@@ -14,10 +14,6 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
       <li>CSS 475 Database Systems</li>
       <li>CSS 487 Computer Vision</li>
     </ol>
-  <li>Self Study / Outside of University</li>
-  <ol>
-    <li>CodePath: [Android Dev] <b>Codepath Android 2021 Fall Developer Course</b></li>
-  </ol>
 </ol>
 
 <h4>DONE</h4>
@@ -50,6 +46,11 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
   <li>Udemy: [Python] Pyomo Bootcamp: Python Optimization from Beginner to Advance</li>
 </ol>
 
+<h2>Completed Structured Courses Outside Of University - Not Self-Paced</h2>
+<ol>
+  <li>CodePath: [Android Dev] <b>Codepath Android 2021 Fall Developer Course</b></li>
+</ol>
+
 <h2>Relevant University of Washington Bothell Coursework - Completed + Planned</h2><br>
 <pre>
 **COMPLETED**<br>
@@ -70,15 +71,9 @@ HW/ORG  CSS 422 Hardware and Computer Organization (Assembly, 68K)
 SWE     CSS 370 Analysis and Design (Project Proposals, Diagrams, Schematics, Requirements Elicitation, ++)<br><br>
 **IN PROGRESS**<br>
 **2021**
-CV      CSS 487 Computer Vision
-OS      CSS 430 Operating Systems
-SQL/DAT CSS 475 Database Systems<br>
-**PLANNED**<br>
-**2022**
-CC      CSS 436 Cloud Computing
-NETW    CSS 432 Network Design and Programming
-COMP    CSS 448 Introduction to Compilers
-ML      CSS 486 Machine Intelligence
+CV      CSS 487 Computer Vision (OpenCV, Image Processing, Image Filtering, Image Recognition)
+OS      CSS 430 Operating Systems (Java, C++, C#, Threads, Processes, Scheduling, OS)
+SQL/DAT CSS 475 Database Systems (SQL, Database Design & Analysis)<br>
 </pre>
 
 👋 ###I'd love to talk to you more. Please contact me at jeconomylan@gmail.com if you have any questions regarding my work, or just want to chat and collaborate! 👋
