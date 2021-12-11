@@ -53,6 +53,7 @@ SQL/DAT CSS 475 Database Systems (SQL, Database Design & Analysis)<br>
 </pre>
 
 👋 ###I'd love to talk to you more. Please contact me at jeconomylan@gmail.com if you have any questions regarding my work, or just want to chat and collaborate! 👋
+You can also find me and connect on linkedin at linkedin.com/in/josephelan
 
 <h4>BACKLOG</h4>
 <ol>
