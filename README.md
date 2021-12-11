@@ -6,7 +6,7 @@ My name is <b>Joseph Lan</b> (He / Him / His)! I'm an undergraduate student stud
 
 I'm currently working through these online courses to brush up on fundamentals and learn some new tools to add to my toolbelt alongside University schoolwork.<br>
 
-<h4>DOING</h4>
+<h4>DOING / IN PROGRESS </h4>
 <ol>
   <li>University of Washington Coursework</li>
     <ol>
@@ -20,7 +20,7 @@ I'm currently working through these online courses to brush up on fundamentals a
   </ol>
 </ol>
 
-<h4>DONE</h4>
+<h4>DONE (OUTSIDE UNIVERSITY)</h4>
 <ol>
   <li>Udemy: [Java] Java Programming: Complete Beginner to Advanced</li>
   <li>Linkedin Learning: [Git] Learning Git and GitHub
