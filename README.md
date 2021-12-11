@@ -14,6 +14,10 @@ I'm currently working through these online courses to brush up on fundamentals a
       <li>CSS 475 Database Systems</li>
       <li>CSS 487 Computer Vision</li>
     </ol>
+  <li>Coursera/Udemy/Online Learning</li>
+    <ol>
+      <li>Agile with Atlassian Jira</li>
+  </ol>
 </ol>
 
 <h4>DONE</h4>
