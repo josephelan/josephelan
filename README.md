@@ -22,30 +22,6 @@ I'm currently working through these UDEMY / online courses to brush up on fundam
   <li>Linkedin Learning: [Git] Learning Git and GitHub
 </ol>
 
-<h4>BACKLOG</h4>
-<ol>
-  <li>Udemy: [Python, ML] Machine Learning using Python Programming</li>
-  <li>Udemy: [Python, RW] Time Series Analysis Real World Projects in Python</li>
-  <li>Udemy: [Python, DL / TensorFlow]	Intro to Deep Learning project in TensorFlow 2.x and Python</li>
-  <li>Udemy: [React Native, Hooks] The Complete React Native + Hooks Course</li>
-  <li>Udemy: [Web Dev] Web Development Masterclass - Complete Certificate Course</li>
-</ol>
-
-<h5>TEMP HOLD</h5>
-<ol>
-  <li>Udemy: [Java, DSA] Data Structures and Algorithms: Deep Dive Using Java</li>
-  <li>Udemy: [SQL] The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery</li>
-  <li>Udemy: Beginning C++ Programming - From Beginner to Beyond</li>
-  <li>Udemy: [HTML/CSS/Bootstrap] HTML, CSS, & Bootstrap Certification Course for Beginners</li>
-</ol>
-
-<h5>MISC BACKLOG</h5>
-<ol>
-  <li>Udemy: [Python, Network] Python Network Programming for Network Engineers (Python 3)</li>
-  <li>Udemy: [Wireshark, Network] Packet Analysis and Ethical Hacking: Core Skills</li>
-  <li>Udemy: [Python] Pyomo Bootcamp: Python Optimization from Beginner to Advance</li>
-</ol>
-
 <h2>Completed Structured Courses Outside Of University - Not Self-Paced</h2>
 <ol>
   <li>CodePath: [Android Dev] <b>Codepath Android 2021 Fall Developer Course</b></li>
@@ -77,6 +53,30 @@ SQL/DAT CSS 475 Database Systems (SQL, Database Design & Analysis)<br>
 </pre>
 
 👋 ###I'd love to talk to you more. Please contact me at jeconomylan@gmail.com if you have any questions regarding my work, or just want to chat and collaborate! 👋
+
+<h4>BACKLOG</h4>
+<ol>
+  <li>Udemy: [Python, ML] Machine Learning using Python Programming</li>
+  <li>Udemy: [Python, RW] Time Series Analysis Real World Projects in Python</li>
+  <li>Udemy: [Python, DL / TensorFlow]	Intro to Deep Learning project in TensorFlow 2.x and Python</li>
+  <li>Udemy: [React Native, Hooks] The Complete React Native + Hooks Course</li>
+  <li>Udemy: [Web Dev] Web Development Masterclass - Complete Certificate Course</li>
+</ol>
+
+<h5>TEMP HOLD</h5>
+<ol>
+  <li>Udemy: [Java, DSA] Data Structures and Algorithms: Deep Dive Using Java</li>
+  <li>Udemy: [SQL] The SQL MicroDegree 2021: From SQL Basics to MYSQL Mastery</li>
+  <li>Udemy: Beginning C++ Programming - From Beginner to Beyond</li>
+  <li>Udemy: [HTML/CSS/Bootstrap] HTML, CSS, & Bootstrap Certification Course for Beginners</li>
+</ol>
+
+<h5>MISC BACKLOG</h5>
+<ol>
+  <li>Udemy: [Python, Network] Python Network Programming for Network Engineers (Python 3)</li>
+  <li>Udemy: [Wireshark, Network] Packet Analysis and Ethical Hacking: Core Skills</li>
+  <li>Udemy: [Python] Pyomo Bootcamp: Python Optimization from Beginner to Advance</li>
+</ol>
 
 <!--
 **josephelan/josephelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
