@@ -15,7 +15,6 @@ I'm currently working through these online courses to brush up on fundamentals a
       <li>CSS 487 Computer Vision</li>
     </ol>
 </ol>
-
 <h2>Relevant University of Washington Bothell Coursework - Completed + Planned</h2><br>
 <pre>
 **COMPLETED**<br>
