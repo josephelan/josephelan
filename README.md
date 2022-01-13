@@ -16,18 +16,6 @@ I'm currently working through these online courses to brush up on fundamentals a
     </ol>
 </ol>
 
-<h4>DONE (OUTSIDE UNIVERSITY)</h4>
-<ol>
-  <li>Udemy: [Java] Java Programming: Complete Beginner to Advanced</li>
-  <li>Linkedin Learning: [Git] Learning Git and GitHub</li>
-  <li>Coursera: Agile with Atlassian Jira [Agile]</li>
-</ol>
-
-<h2>Completed Structured Courses Outside Of University - Not Self-Paced</h2>
-<ol>
-  <li>CodePath: [Android Dev] <b>Codepath Android 2021 Fall Developer Course</b></li>
-</ol>
-
 <h2>Relevant University of Washington Bothell Coursework - Completed + Planned</h2><br>
 <pre>
 **COMPLETED**<br>
@@ -54,8 +42,26 @@ SQL/DAT CSS 475 Database Systems (SQL, Database Design & Analysis)<br>
 CLOUD   CSS 436 Cloud Computing (Cloud Computing, AWS, Azure, GCP)
 COMP    CSS 448 Introduction to Compilers (Lexers, Compiling, Optimization)
 SCALE   CSS 490 Software architecture for scalable systems (Database scaling, idempotence, workflow, NOSQL, SOA, microservices)
-
 </pre>
+
+<h4>DONE (OUTSIDE UNIVERSITY)</h4>
+<ol>
+  <li>Udemy: [Java] Java Programming: Complete Beginner to Advanced</li>
+  <li>Linkedin Learning: [Git] Learning Git and GitHub</li>
+  <li>Coursera: Agile with Atlassian Jira [Agile]</li>
+</ol>
+
+<h2>Completed Structured Courses Outside Of University - Not Self-Paced</h2>
+<ol>
+  <li>CodePath: [Android Dev] <b>Codepath Android 2021 Fall Developer Course</b></li>
+</ol>
+
+<h2>Completed Courses Outside of University - Self-Paced</h2>
+<ol>
+  <li>Udemy: [Java] Java Programming: Complete Beginner to Advanced</li>
+  <li>Linkedin Learning: [Git] Learning Git and GitHub</li>
+  <li>Coursera: Agile with Atlassian Jira [Agile]</li>
+</ol>
 
 👋 I'd love to talk to you more. Please contact me at jeconomylan@gmail.com if you have any questions regarding my work, or just want to chat and collaborate!
 
