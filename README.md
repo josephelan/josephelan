@@ -14,16 +14,13 @@ I'm currently working through these online courses to brush up on fundamentals a
       <li>CSS 475 Database Systems</li>
       <li>CSS 487 Computer Vision</li>
     </ol>
-  <li>Coursera/Udemy/Online Learning</li>
-    <ol>
-      <li>Agile with Atlassian Jira</li>
-  </ol>
 </ol>
 
 <h4>DONE (OUTSIDE UNIVERSITY)</h4>
 <ol>
   <li>Udemy: [Java] Java Programming: Complete Beginner to Advanced</li>
-  <li>Linkedin Learning: [Git] Learning Git and GitHub
+  <li>Linkedin Learning: [Git] Learning Git and GitHub</li>
+  <li>Coursera: Agile with Atlassian Jira [Agile]</li>
 </ol>
 
 <h2>Completed Structured Courses Outside Of University - Not Self-Paced</h2>
@@ -49,11 +46,15 @@ C++     CSS 343 Data Structures, Algorithms, and Discrete Mathematics II (Progra
 SWE     CSS 350 Management Principles for Computing Professionals (Management, EI, CM, ++)
 HW/ORG  CSS 422 Hardware and Computer Organization (Assembly, 68K)
 SWE     CSS 370 Analysis and Design (Project Proposals, Diagrams, Schematics, Requirements Elicitation, ++)<br><br>
-**IN PROGRESS**<br>
-**2021**
 CV      CSS 487 Computer Vision (OpenCV, Image Processing, Image Filtering, Image Recognition)
 OS      CSS 430 Operating Systems (Java, C++, C#, Threads, Processes, Scheduling, OS)
 SQL/DAT CSS 475 Database Systems (SQL, Database Design & Analysis)<br>
+**IN PROGRESS**<br>
+**2022**
+CLOUD   CSS 436 Cloud Computing (Cloud Computing, AWS, Azure, GCP)
+COMP    CSS 448 Introduction to Compilers (Lexers, Compiling, Optimization)
+SCALE   CSS 490 Software architecture for scalable systems (Database scaling, idempotence, workflow, NOSQL, SOA, microservices)
+
 </pre>
 
 👋 I'd love to talk to you more. Please contact me at jeconomylan@gmail.com if you have any questions regarding my work, or just want to chat and collaborate!
