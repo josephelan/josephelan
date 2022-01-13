@@ -10,9 +10,9 @@ I'm currently working through these online courses to brush up on fundamentals a
 <ol>
   <li>University of Washington Coursework</li>
     <ol>
-      <li>CSS 430 Operating Systems</li>
-      <li>CSS 475 Database Systems</li>
-      <li>CSS 487 Computer Vision</li>
+      <li>CSS 436 Cloud Computing</li>
+      <li>CSS 448 Introduction to Compilers</li>
+      <li>CSS 490 Software architecture for scalable systems</li>
     </ol>
 </ol>
 <h2>Relevant University of Washington Bothell Coursework - Completed + Planned</h2><br>
@@ -37,10 +37,6 @@ CV      CSS 487 Computer Vision (OpenCV, Image Processing, Image Filtering, Imag
 OS      CSS 430 Operating Systems (Java, C++, C#, Threads, Processes, Scheduling, OS)
 SQL/DAT CSS 475 Database Systems (SQL, Database Design & Analysis)<br>
 **IN PROGRESS**<br>
-**2022**
-CLOUD   CSS 436 Cloud Computing (Cloud Computing, AWS, Azure, GCP)
-COMP    CSS 448 Introduction to Compilers (Lexers, Compiling, Optimization)
-SCALE   CSS 490 Software architecture for scalable systems (Database scaling, idempotence, workflow, NOSQL, SOA, microservices)
 </pre>
 
 <h4>DONE (OUTSIDE UNIVERSITY)</h4>
