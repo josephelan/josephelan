@@ -15,7 +15,7 @@ I'm currently working through these online courses to brush up on fundamentals a
       <li>CSS 490 Software architecture for scalable systems</li>
     </ol>
 </ol>
-<h2>Relevant University of Washington Bothell Coursework - Completed + Planned</h2><br>
+<h2>Relevant University of Washington Bothell Coursework - Completed</h2><br>
 <pre>
 **COMPLETED**<br>
 **2020**
@@ -36,7 +36,6 @@ SWE     CSS 370 Analysis and Design (Project Proposals, Diagrams, Schematics, Re
 CV      CSS 487 Computer Vision (OpenCV, Image Processing, Image Filtering, Image Recognition)
 OS      CSS 430 Operating Systems (Java, C++, C#, Threads, Processes, Scheduling, OS)
 SQL/DAT CSS 475 Database Systems (SQL, Database Design & Analysis)<br>
-**IN PROGRESS**<br>
 </pre>
 
 <h2>Completed Structured Courses Outside Of University - Not Self-Paced</h2>
