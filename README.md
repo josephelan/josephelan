@@ -5,8 +5,6 @@ My name is <b>Joseph Lan</b> (He / Him / His)! I'm an undergraduate student stud
 Have a look around at my journey and progression through my various projects and learning!
 </p>
 
-I'm currently working through these online courses to brush up on fundamentals and learn some new tools to add to my toolbelt alongside University schoolwork.<br>
-
 <h4>DOING</h4>
 <ol>
   <li>University of Washington Coursework</li>
