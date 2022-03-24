@@ -7,7 +7,7 @@ My name is <b>Joseph Lan</b> (He / Him / His)! I'm an undergraduate student stud
 Have a look around at my journey and progression through my various projects and learning!
 </p>
 
-<h4>DOING - SPRING 2022</h4>
+<h2>DOING - SPRING 2022</h2>
 <ol>
   <li>University of Washington Coursework</li>
     <ol>
