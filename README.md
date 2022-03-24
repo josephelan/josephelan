@@ -24,19 +24,23 @@ Have a look around at my journey and progression through my various projects and
 **COMPLETED**<br>
 **2020**
 JAVA  CSS 142 Computer Programming I (Introduction to Programming Concepts)
-JAVA  CSSSKL 142 Computer Programming Skills (Intro to Programming LAB)
+JAVA  CSSSKL 142 Computer Programming Skills (Intro to Programming LAB)<br>
+
 JAVA  CSS 143 Computer Programming II (Introduction to advanced DSA/ ADT)
-JAVA  CSSSKL 143 Computer Programming Skills (Introduction to advanced DSA LAB)
+JAVA  CSSSKL 143 Computer Programming Skills (Introduction to advanced DSA LAB)<br>
+
 C++   CSS 342 Data Structures, Algorithms, and Discrete Mathematics (Programming with DSA, OOP)
 C++   CSSSKL 342 Programming Issues with Object-Oriented Languages (Programming with DSA, OOP LAB)
 TECH  CSS 301 Technical Writing for Computing Professionals (Technical Writing)<br>
 **2021**
 SWE     CSS 360 Software Engineering (SWE principles, methodologies, SDLC, Management)
 MATH    STMATH 308 Matrix Algebra with Applications (Linear Algebra, Applications)
-C++     CSS 343 Data Structures, Algorithms, and Discrete Mathematics II (DSA, OOP, BIGO, BST, GRAPH, ++)
+C++     CSS 343 Data Structures, Algorithms, and Discrete Mathematics II (DSA, OOP, BIGO, BST, GRAPH, ++)<br>
+
 SWE     CSS 350 Management Principles for Computing Professionals (Management, EI, CM)
 HW/ORG  CSS 422 Hardware and Computer Organization (Assembly, 68K)
-SWE     CSS 370 Analysis and Design (Project Proposals, Diagrams, Schematics, Requirements Elicitation)
+SWE     CSS 370 Analysis and Design (Project Proposals, Diagrams, Schematics, Requirements Elicitation)<br>
+
 CV      CSS 487 Computer Vision (OpenCV, Image Processing, Image Filtering, Image Recognition)
 OS      CSS 430 Operating Systems (Java, C++, C#, Threads, Processes, Scheduling, OS)
 SQL/DAT CSS 475 Database Systems (SQL, Database Design & Analysis)<br>
