@@ -6,14 +6,17 @@ My name is <b>Joseph Lan</b> (He / Him / His)! I'm an undergraduate student stud
 
 I'm currently working through these online courses to brush up on fundamentals and learn some new tools to add to my toolbelt alongside University schoolwork.<br>
 
-<h4>DOING / IN PROGRESS </h4>
+<h4>DOING</h4>
 <ol>
   <li>University of Washington Coursework</li>
     <ol>
-      <li>CSS 436 Cloud Computing</li>
-      <li>CSS 448 Introduction to Compilers</li>
-      <li>CSS 490 Software architecture for scalable systems</li>
+      <li>CSS 478 Usability Engineering
     </ol>
+  <li>Self-paced Online Coursework</li>
+    <ol>
+      <li>Complete Node.js Developer Course (Node.js, Express, npm)</li>
+      <li>Spring & Hiberate for Beginners (Spring 5 Core, MVC, Security, Rest, Boot, Hibernate, JPA)</li>
+      <li>Data Structures and Algorithms: Deep Dive Using Java (Refresher courses)
 </ol>
 <h2>Relevant University of Washington Bothell Coursework - Completed</h2><br>
 <pre>
