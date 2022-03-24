@@ -9,7 +9,7 @@ Have a look around at my journey and progression through my various projects and
 
 <h4>DOING</h4>
 <ol>
-  <li>University of Washington Coursework</li>
+  <li>University of Washington Coursework, Spring 2022</li>
     <ol>
       <li>CSS 478 Usability Engineering
     </ol>
