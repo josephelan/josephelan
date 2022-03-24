@@ -16,7 +16,7 @@ Have a look around at my journey and progression through my various projects and
   <li>Self-paced Online Coursework</li>
     <ol>
       <li>Complete Node.js Developer Course (Node.js, Express, npm)</li>
-      <li>Spring & Hiberate for Beginners (Spring 5 Core, MVC, Security, Rest, Boot, Hibernate, JPA)</li>
+      <li>Spring & Hibernate for Beginners (Spring 5 Core, MVC, Security, Rest, Boot, Hibernate, JPA)</li>
       <li>Data Structures and Algorithms: Deep Dive Using Java (Refresher courses)
   </ol>
 </ol>
