@@ -1,7 +1,7 @@
 <h2>👋 Hello and Welcome!! 👋</h2>
 
 <p>
-My name is <b>Joseph Lan</b> (He / Him / His)! I'm an undergraduate student studying computer science and software engineering at the University of Washington Bothell. I started this journey because I have a passion for problem solving and finding solutions and I love technology and computing! I believe that technology has and can create powerfully impactful experiences people and I want to make contributions to that end. Have a look around at my journey and progression through my various school coursework projects and self projects that I am working on!
+My name is <b>Joseph Lan</b> (He / Him / His)! I'm an undergraduate student studying computer science and software engineering at the University of Washington Bothell. I started this journey because I have a passion for problem solving and finding solutions and I love technology and computing! I believe that technology has and can empower and enable people to do more. Have a look around at my journey and progression through my various projects and learning!
 </p>
 
 I'm currently working through these online courses to brush up on fundamentals and learn some new tools to add to my toolbelt alongside University schoolwork.<br>
@@ -36,6 +36,10 @@ SWE     CSS 370 Analysis and Design (Project Proposals, Diagrams, Schematics, Re
 CV      CSS 487 Computer Vision (OpenCV, Image Processing, Image Filtering, Image Recognition)
 OS      CSS 430 Operating Systems (Java, C++, C#, Threads, Processes, Scheduling, OS)
 SQL/DAT CSS 475 Database Systems (SQL, Database Design & Analysis)<br>
+**2022**
+CLOUD   CSS 436 Cloud Computing (Azure, AWS, Cloud computing, REST, Containers, VM)
+COMPILE CSS 448 Introduction to Compilers (Lex, Recognizer, Parsers, AST, Semantics, CodeGen, Optimization, Grammar, LL/LR parsing) 
+SCALE   CSS 490 Software architecture for Scalable Systems (Scaling design and analysis, Data scale and design, NoSQL, Kafka, Message Passing)<br>
 </pre>
 
 <h2>Completed Structured Courses Outside Of University - Not Self-Paced</h2>
