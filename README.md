@@ -20,7 +20,7 @@ Have a look around at my journey and progression through my various projects and
       <li>Data Structures and Algorithms: Deep Dive Using Java (Refresher courses)
   </ol>
 </ol>
-<h2>Relevant University of Washington Bothell Coursework - Completed</h2><br>
+<h2>Completed University of Washington Bothell Coursework</h2><br>
 <pre>
 **COMPLETED**<br>
 **2020**
