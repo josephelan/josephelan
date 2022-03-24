@@ -1,7 +1,8 @@
 <h2>👋 Hello and Welcome!! 👋</h2>
 
 <p>
-My name is <b>Joseph Lan</b> (He / Him / His)! I'm an undergraduate student studying computer science and software engineering at the University of Washington Bothell. I started this journey because I have a passion for problem solving and finding solutions and I love technology and computing! I believe that technology has and can empower and enable people to do more. Have a look around at my journey and progression through my various projects and learning!
+My name is <b>Joseph Lan</b> (He / Him / His)! I'm an undergraduate student studying computer science and software engineering at the University of Washington Bothell. I started this journey because I have a passion for problem solving and finding solutions, and I love technology and computing! I believe that technology has and can empower and enable people to do more.
+Have a look around at my journey and progression through my various projects and learning!
 </p>
 
 I'm currently working through these online courses to brush up on fundamentals and learn some new tools to add to my toolbelt alongside University schoolwork.<br>
