@@ -22,7 +22,6 @@ Have a look around at my journey and progression through my various projects and
 </ol>
 <h2>Completed University of Washington Bothell Coursework</h2>
 <pre>
-**COMPLETED**<br>
 **2020**
 JAVA  CSS 142 Computer Programming I (Introduction to Programming Concepts)
 JAVA  CSSSKL 142 Computer Programming Skills (Intro to Programming LAB)
