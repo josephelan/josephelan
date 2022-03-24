@@ -45,6 +45,7 @@ SWE     CSS 370 Analysis and Design (Project Proposals, Diagrams, Schematics, Re
 CV      CSS 487 Computer Vision (OpenCV, Image Processing, Image Filtering, Image Recognition)
 OS      CSS 430 Operating Systems (Java, C++, C#, Threads, Processes, Scheduling, OS)
 SQL/DAT CSS 475 Database Systems (SQL, Database Design & Analysis)
+
 **2022**
 CLOUD   CSS 436 Cloud Computing (Azure, AWS, Cloud computing, REST, Containers, VM)
 COMPILE CSS 448 Introduction to Compilers (Lex, Recognizer, Parsers, Semantics, CodeGen, Optimization, Grammar) 
