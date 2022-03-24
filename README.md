@@ -36,7 +36,7 @@ MATH    STMATH 308 Matrix Algebra with Applications (Linear Algebra, Application
 C++     CSS 343 Data Structures, Algorithms, and Discrete Mathematics II (Programming with DSA, OOP, BIGO, BST, GRAPH, PQUE, ++)
 SWE     CSS 350 Management Principles for Computing Professionals (Management, EI, CM, ++)
 HW/ORG  CSS 422 Hardware and Computer Organization (Assembly, 68K)
-SWE     CSS 370 Analysis and Design (Project Proposals, Diagrams, Schematics, Requirements Elicitation, ++)<br><br>
+SWE     CSS 370 Analysis and Design (Project Proposals, Diagrams, Schematics, Requirements Elicitation, ++)
 CV      CSS 487 Computer Vision (OpenCV, Image Processing, Image Filtering, Image Recognition)
 OS      CSS 430 Operating Systems (Java, C++, C#, Threads, Processes, Scheduling, OS)
 SQL/DAT CSS 475 Database Systems (SQL, Database Design & Analysis)<br>
