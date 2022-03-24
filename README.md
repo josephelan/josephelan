@@ -52,12 +52,12 @@ SCALE   CSS 490 Software arch for Scalable Systems (Scale Design&Analysis, API D
 </ol>
 
 <h2>Completed Courses Outside of University - Self-Paced</h2>
-  **2021**
-  <ol>
-    <li>Udemy: [Java] Java Programming: Complete Beginner to Advanced</li>
-    <li>Linkedin Learning: [Git] Learning Git and GitHub</li>
-    <li>Coursera: Agile with Atlassian Jira [Agile]</li>
-  </ol>
+<b>2021</b>
+<ol>
+  <li>Udemy: [Java] Java Programming: Complete Beginner to Advanced</li>
+  <li>Linkedin Learning: [Git] Learning Git and GitHub</li>
+  <li>Coursera: Agile with Atlassian Jira [Agile]</li>
+</ol>
 
 👋 I'd love to talk to you more. Please contact me at jeconomylan@gmail.com if you have any questions regarding my work, or just want to chat and collaborate!
 
